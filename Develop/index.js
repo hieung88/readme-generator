@@ -93,7 +93,7 @@ function init() {
     .then((answers) => {
         const markdown = generateMarkdown(answers);
         writeToFile('README.md', markdown);  
-        console.log('Success! READDME.md file has been createrd!');      
+        console.log('Success! README.md file has been created!');      
       })
       .catch((error) => {
         console.log(error);

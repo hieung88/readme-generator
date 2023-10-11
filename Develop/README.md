@@ -1,5 +1,5 @@
 
-  # d
+  # Readme generator
 
   ![badge](https://img.shields.io/badge/license-mit-blue)
 
@@ -14,15 +14,15 @@
   
   ## [Description]
 
-  d
+  It's a homework
 
   ## [Installation]
 
-  dasd
+  npm install
 
   ## [Usage]
 
-  sad
+  creating Readdme file
 
   ## [License]
 
@@ -30,16 +30,16 @@
   
   ## [Contribution]
 
-  fsdf
+  N/A
 
   ## [Tests]
 
-  sdf
+  npm test
 
   ## [Questions]
 
   Contact Information:
 
-  GitHub: (https://github.com/sdf)
+  GitHub: (https://github.com/hnguyen88)
 
-  Email: dsf
+  Email: hieu@gmail.com
